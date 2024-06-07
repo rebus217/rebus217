@@ -21,5 +21,6 @@ My name is Maksim Palinov, and I have been working as a frontend developer since
 
 - Telegram: [https://t.me/Rebus217]
 - E-mail: [maksim_palinov@mail.ru]
+
 I look forward to connecting with new professional contacts and engaging in exciting projects!
 
