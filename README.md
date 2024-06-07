@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**rebus217/rebus217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Maksim Palinov, and I have been working as a frontend developer since 2021. I have experience with various technologies and frameworks, including JavaScript, React, React Native, and Dart with Flutter.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Working as a frontend developer since 2021.
+- 📚 Experienced with JavaScript, React, and React Native.
+- 🌟 Proficient in Dart and Flutter for cross-platform app development.
+- 🛠 Passionate about creating beautiful and functional user interfaces.
+
+## Technologies and Tools
+
+- **JavaScript**: The primary programming language for web development.
+- **React**: Used for building dynamic and responsive user interfaces.
+- **React Native**: Experience in developing mobile applications for iOS and Android.
+- **Dart**: Used for development with Flutter.
+- **Flutter**: Experience in creating cross-platform mobile applications.
+
+## Contact
+
+- Telegram: [https://t.me/Rebus217]
+- E-mail: [maksim_palinov@mail.ru]
+I look forward to connecting with new professional contacts and engaging in exciting projects!
+
